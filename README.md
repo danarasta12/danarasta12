@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **how to code and make cool things**
 
-- Open to freelance jobs in **Web Development and No-Code** (mainly Webflow and Airtable)
+- 👨‍💻 Open to freelance jobs in **Web Development and No-Code** (mainly Webflow and Airtable)
 
 - 📫 You can reach out on **Linkedin or at alexis.dutoya@gmail.com**
 
