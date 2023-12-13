@@ -1,10 +1,12 @@
-<h3 align="center">Hi 👋, I'm Alexis, a passionate full stack developer from France 🇫🇷</h3>
+<h3 align="left">Hi, I'm Alexis 👋, a passionate full stack developer from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on **something new 🚲**
+- 🔭 I’m currently working on **something new in the 🚲 industry**
 
 - 🌱 I’m currently learning **how to code and make cool things**
 
-- 📫 You can reach me on **Linkedin**
+- Open to freelance jobs in **Web Development and No-Code** (mainly Webflow and Airtable)
+
+- 📫 You can reach out on **Linkedin or at alexis.dutoya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
