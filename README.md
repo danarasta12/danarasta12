@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to code and make cool things**
 
-- 📫 How to reach me **Linkedin**
+- 📫 You can reach me on **Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
