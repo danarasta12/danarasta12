@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **something new in the 🚲 industry**
 
-- 🌱 I’m currently learning **how to code and make cool things**
+- 🌱 I’m learning **how to code and make cool things**
 
 - 👨‍💻 Open to freelance jobs in **Web Development and No-Code** (mainly Webflow and Airtable)
 
